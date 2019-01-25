@@ -8,3 +8,5 @@ EmpData.dtsx - The EmpData SSIS package is used to export the data from SQL Serv
 FFCM_SQL.dtsx - The FFCM_SQL SSIS package is used to import the data from the .txt file into SQL Server
 
 StagingTable.sql - This query is used to create the required staging table to store the data
+
+Exporting-and-Importing-Data-using-SSIS-Package-master.zip - Zip file storing all the files required for assignment II
